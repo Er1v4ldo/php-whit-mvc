@@ -1,0 +1,19 @@
+{
+	"name":"couser/mvc",
+	"require":{
+		"php":">=5.6"
+	},
+	"authors":[
+		{
+			"name":"Erivaldo Barbosa",
+			"email":"eri.barbosarj@gmail.com"
+		}
+	],
+	"autoload":{
+		"psr-4":{
+			"ERI\\":"vendor/ERI/",
+			"App\\":"App/"
+		}
+	}
+}
+	
